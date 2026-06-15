@@ -49,7 +49,7 @@ A lightweight DataFrame implementation that provides pandas-like functionality:
 Due to file size limitations, the data files are hosted on Google Drive.
 
 1. **Download the data:**
-   - Download `data.zip` from [Google Drive Link](https://drive.google.com/file/d/1hsKbnboeKkd8PAH9RF3Cgfui9dBgOPnS/view?usp=sharing)
+   - Download `data.zip` from [Google Drive Link](https://drive.google.com/file/d/1dfhXuVBDkDTRsIzdvPy4Gk1QsbH-c9z0/view?usp=share_link)
    - Extract the zip file to the project root directory
    - Ensure the `data/` folder contains:
      - `us_accidents_clean.csv`
