@@ -1,0 +1,5 @@
+# Backend API Framework
+fastapi>=0.104.0
+
+# ASGI Server 
+uvicorn[standard]>=0.24.0
